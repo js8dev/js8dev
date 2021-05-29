@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**js8dev/js8dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 Now I am working on my favorite project
 - 🌱 I'm currently learning React + Redux / Mobx, Typescript. In the near future I plan to learn Angular, Vue and practice more with Node.js
@@ -16,4 +13,3 @@ Here are some ideas to get you started:
 
 [resume Denis Larin front-end.pdf](https://github.com/js8dev/js8dev/files/6564415/resume.Denis.Larin.front-end.pdf)
 
--->

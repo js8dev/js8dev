@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 
@@ -11,5 +12,5 @@
 - 😄 Technology stack: JS (ES6), HTML5, CSS3, Typescript, React, Redux, Mobx, Node.js
 - ⚡ Fun fact: I started studying and practicing web development in 2021. Remember every senior was once a trainee or junior.
 
-[resume Denis Larin front-end.pdf](https://github.com/js8dev/js8dev/files/6564415/resume.Denis.Larin.front-end.pdf)
+[ResumeLarinDenisFrontend.pdf](https://github.com/js8dev/js8dev/files/6589718/ResumeLarinDenisFrontend.pdf)
 

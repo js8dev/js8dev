@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Now I am working on my favorite project
+- 🔭 Now I work as a junior frontend developer
 - 🌱 I'm currently learning React + Redux / Mobx, Typescript. In the near future I plan to learn Angular, Vue and practice more with Node.js
 - 👯 I want to collaborate on web development
 - 🤔 I need help with practice, I will be glad to work together on the project for free
